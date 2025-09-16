@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/closest_pair_interactive.dir/main.cpp.o -o closest_pair_interactive  libclosest_pair_lib.a

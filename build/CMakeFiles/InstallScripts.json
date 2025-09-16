@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/d/!labs/oop/lab1/projectfiles/build/cmake_install.cmake",
+		"/mnt/d/!labs/oop/lab1/projectfiles/build/libs/googletest/cmake_install.cmake",
+		"/mnt/d/!labs/oop/lab1/projectfiles/build/libs/googletest/googlemock/cmake_install.cmake",
+		"/mnt/d/!labs/oop/lab1/projectfiles/build/libs/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
